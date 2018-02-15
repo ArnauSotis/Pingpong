@@ -1,0 +1,7 @@
+C:\Users\Arnau\AppData\Local\Temporary Projects\InterfazJuego\obj\x86\Release\InterfazJuego.Form1.resources
+C:\Users\Arnau\AppData\Local\Temporary Projects\InterfazJuego\obj\x86\Release\InterfazJuego.Properties.Resources.resources
+C:\Users\Arnau\AppData\Local\Temporary Projects\InterfazJuego\obj\x86\Release\InterfazJuego.csproj.GenerateResource.Cache
+C:\Users\Arnau\AppData\Local\Temporary Projects\InterfazJuego\bin\Release\InterfazJuego.exe
+C:\Users\Arnau\AppData\Local\Temporary Projects\InterfazJuego\bin\Release\InterfazJuego.pdb
+C:\Users\Arnau\AppData\Local\Temporary Projects\InterfazJuego\obj\x86\Release\InterfazJuego.exe
+C:\Users\Arnau\AppData\Local\Temporary Projects\InterfazJuego\obj\x86\Release\InterfazJuego.pdb

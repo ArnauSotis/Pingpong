@@ -1,0 +1,9 @@
+C:\Users\Arnau\AppData\Local\Temporary Projects\InterfazJuego\bin\Debug\InterfazJuego.exe
+C:\Users\Arnau\AppData\Local\Temporary Projects\InterfazJuego\bin\Debug\InterfazJuego.pdb
+C:\Users\Arnau\AppData\Local\Temporary Projects\InterfazJuego\obj\x86\Debug\InterfazJuego.Form1.resources
+C:\Users\Arnau\AppData\Local\Temporary Projects\InterfazJuego\obj\x86\Debug\InterfazJuego.Properties.Resources.resources
+C:\Users\Arnau\AppData\Local\Temporary Projects\InterfazJuego\obj\x86\Debug\InterfazJuego.csproj.GenerateResource.Cache
+C:\Users\Arnau\AppData\Local\Temporary Projects\InterfazJuego\obj\x86\Debug\InterfazJuego.exe
+C:\Users\Arnau\AppData\Local\Temporary Projects\InterfazJuego\obj\x86\Debug\InterfazJuego.pdb
+C:\Users\Arnau\Desktop\PingPong\InterfazJuego\InterfazJuego\obj\x86\Debug\InterfazJuego.exe
+C:\Users\Arnau\Desktop\PingPong\InterfazJuego\InterfazJuego\obj\x86\Debug\InterfazJuego.pdb

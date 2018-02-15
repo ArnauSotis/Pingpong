@@ -1,0 +1,18 @@
+C:\Users\Arnau\AppData\Local\Temporary Projects\PingPong\bin\Debug\PingPong.exe
+C:\Users\Arnau\AppData\Local\Temporary Projects\PingPong\bin\Debug\PingPong.pdb
+C:\Users\Arnau\AppData\Local\Temporary Projects\PingPong\obj\x86\Debug\PingPong.Form1.resources
+C:\Users\Arnau\AppData\Local\Temporary Projects\PingPong\obj\x86\Debug\PingPong.Properties.Resources.resources
+C:\Users\Arnau\AppData\Local\Temporary Projects\PingPong\obj\x86\Debug\PingPong.csproj.GenerateResource.Cache
+C:\Users\Arnau\AppData\Local\Temporary Projects\PingPong\obj\x86\Debug\PingPong.exe
+C:\Users\Arnau\AppData\Local\Temporary Projects\PingPong\obj\x86\Debug\PingPong.pdb
+C:\Users\Arnau\AppData\Local\Temporary Projects\PingPong\obj\x86\Debug\PingPong.Juego.resources
+C:\Users\Arnau\Desktop\PingPong\PingPong\PingPong\obj\x86\Debug\PingPong.exe
+C:\Users\Arnau\Desktop\PingPong\PingPong\PingPong\obj\x86\Debug\PingPong.pdb
+C:\Users\Arnau\Desktop\PingPong\PingPong\PingPong\bin\Debug\PingPong.exe
+C:\Users\Arnau\Desktop\PingPong\PingPong\PingPong\bin\Debug\PingPong.pdb
+C:\Users\Arnau\Desktop\PingPong\PingPong\PingPong\obj\x86\Debug\PingPong.Form1.resources
+C:\Users\Arnau\Desktop\PingPong\PingPong\PingPong\obj\x86\Debug\PingPong.Juego.resources
+C:\Users\Arnau\Desktop\PingPong\PingPong\PingPong\obj\x86\Debug\PingPong.Properties.Resources.resources
+C:\Users\Arnau\Desktop\PingPong\PingPong\PingPong\obj\x86\Debug\PingPong.csproj.GenerateResource.Cache
+C:\Users\Arnau\Desktop\PingPong\PingPong\PingPong\bin\Debug\PingPong.exe.config
+C:\Users\Arnau\Desktop\PingPong\PingPong\PingPong\obj\x86\Debug\PingPong.csprojResolveAssemblyReference.cache
